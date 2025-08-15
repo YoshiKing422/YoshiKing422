@@ -1,4 +1,4 @@
-## Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+YoshiKing422&size=30)](https://git.io/typing-svg)
 
 ![YoshiKing422's GitHub contribution graph](https://activity-graph.vercel.app/graph?username=YoshiKing422&theme=react-dark&hide_border=true&custom_title=GitHub%20Activity)
 
