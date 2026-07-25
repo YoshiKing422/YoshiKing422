@@ -1,16 +1,27 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+YoshiKing422&size=30)](https://git.io/typing-svg)
+👋 Hi, I'm YoshiKing422
+- I'm a high school student interested in building software that combines biology, engineering, and computer science.
 
-![YoshiKing422's GitHub contribution graph](https://activity-graph.vercel.app/graph?username=YoshiKing422&theme=react-dark&hide_border=true&custom_title=GitHub%20Activity)
+My current interests include:
+- 🧬 Computational Biology
+- ⚙️ Biomedical Engineering
+- 💻 Full-Stack Development
+- 🤖 Embedded Systems & Arduino
+- 📊 Scientific Computing & Data Visualization
 
-<div align="center">
-  <p style="color:blue;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoshiKing422&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoshiKing422&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  </p>
-</div>
+I enjoy creating interactive educational experiences, scientific simulations, and engineering projects that make complex ideas easier to understand.
 
-- 🔭 I’m currently working on: Website Developement, both Frontend and Backend. Along with Arduino projects and game developement.
-- 🌱 I’m currently learning Backend coding.
-- 👯 I’m looking to collaborate on websites, games, etc.
-- 😄 Pronouns: He/him
+🚀 Currently Working On
+- 🧬 Interactive Cell Explorer
+- 📚 Biology Learning Platform
+- 🔬 Humidity vs. Speed of Sound Research
+- ⚙️ Arduino Engineering Projects
 
+🌱 Currently Learning
+- React & TypeScript
+- Advanced JavaScript
+- Python for Scientific Computing
+- Data Structures & Algorithms
+- Computational Biology
+
+🎯 Goals
+- Build software that helps advance science, education, and healthcare through technology.
